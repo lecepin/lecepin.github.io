@@ -1,0 +1,15 @@
+{
+  success: true,
+  content: {
+    data: [{
+      text: 'AA',
+      value: 'a'
+    },{
+      text: 'BB',
+      value: 'b'
+    },{
+      text: 'CC',
+      value: 'c'
+    }]
+  }
+}
